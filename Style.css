@@ -78,11 +78,11 @@ body {
 }
 
 .profile-photo {
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
+    width: 360px;
+    height: 360px;
+    border-radius: 60%;
     object-fit: cover;
-    border: 5px solid var(--primary-color);
+    border: 5px solid var#002928;
     margin-bottom: 1rem;
 }
 
@@ -104,8 +104,8 @@ body {
 }
 
 .list li {
-    background-color: white;
-    border-left: 5px solid var(--primary-color);
+    background-color: #002928;
+    border-left: 5px solid var#24EAD0;
     padding: 1rem;
     margin-bottom: 1rem;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -213,3 +213,4 @@ body {
     }
 
 }
+
