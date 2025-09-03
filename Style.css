@@ -1,7 +1,7 @@
 /* Estilos generales */
 :root {
     --primary-color: rgb(66,236,250);
-    --secondary-color: #FFFFFF;
+    --secondary-color: rgb(5,184,199);
     --text-color: #333333;;
     --background-color: #f4f4f4;
     --light-gray: #ecf0f1;*/
@@ -213,6 +213,7 @@ body {
     }
 
 }
+
 
 
 
